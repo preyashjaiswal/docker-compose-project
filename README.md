@@ -9,9 +9,4 @@ This project demonstrates a multi-container application using **Docker Compose**
 3. **DB** – PostgreSQL database (`db-data` volume)  
 4. **Admin** – pgAdmin to manage PostgreSQL (`http://localhost:5050`)
 
-## How to Run
 
-1. Clone the repository:
-```bash
-git clone <your-repo-url>
-cd docker-compose-project
